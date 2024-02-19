@@ -198,7 +198,7 @@ Result:
 
 We just have to add the flag -f or --follow before our container.
 
-Command: ```docker logs -follow my-nginx-container``` or ```docker logs --follow my-nginx-container```
+Command: ```docker logs -f my-nginx-container``` or ```docker logs --follow my-nginx-container```
 
 # Step 1
 
