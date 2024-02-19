@@ -6,4 +6,4 @@ This is like spinaches for programmers: at first, it feels strange and does not 
 
 During this bootstrap, we are going to become familiar with one of the most popular contain- erization technologies: Docker, and its associated tool Docker Compose.
 
-Make sure to take you json packages out of you app directory and delete/stop your containers after each step. 
+Make sure to take your json packages out of you app directory and delete/stop your containers after each step. 
